@@ -1,0 +1,38 @@
+{
+  "id": "54c3a6eb-ca9e-4b06-94ba-89ede9f436cd",
+  "name": "DC Advanced move to company",
+  "publisher": "github.com/document-capture",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Enhancement of standard Document Capture move to company functionality",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "https://github.com/document-capture/advanced-move-to-company",
+  "url": "https://github.com/document-capture/advanced-move-to-company",
+  "logo": "./res/images/logo.png",
+  "dependencies": [
+    {
+      "id": "4b915d7e-c02a-435f-85ab-649086c1e002",
+      "name": "Continia Core",
+      "publisher": "Continia Software",
+      "version": "4.0.0.0"
+    },
+    {
+      "id": "6da8dd2f-e698-461f-9147-8e404244dd85",
+      "name": "Continia Document Capture 365",
+      "publisher": "Continia Software",
+      "version": "7.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 61101,
+      "to": 61109
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
